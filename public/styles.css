@@ -1,0 +1,23 @@
+#product-info-and-images {
+  margin: auto;
+  width: 70%;
+  position: relative;
+}
+
+#product_images {
+  display: inline-block;
+  position: relative;
+  width: 600px;
+}
+
+#app {
+  display: inline-block;
+  position: relative;
+  top: -70px;
+  width: 650px;
+}
+
+#carousel {
+  margin-top: 100px;
+}
+
