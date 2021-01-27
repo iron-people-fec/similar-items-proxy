@@ -1,6 +1,6 @@
 #product-info-and-images {
   margin: auto;
-  width: 70%;
+  width: 1260px;
   position: relative;
 }
 
@@ -8,6 +8,7 @@
   display: inline-block;
   position: relative;
   width: 600px;
+  margin-right: 5px;
 }
 
 #sales {
@@ -18,7 +19,8 @@
 }
 
 #carousel {
-  margin-top: 10px;
+  padding-top: 10px;
   margin-bottom: 170px;
+  background-color: rgb(247, 247, 247);
 }
 
